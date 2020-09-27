@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "version": "0.1.0",
+    "private": true,
+    "keywords": [],
+    "author": "marsrobot",
+    "license": "BSD 3-Clause License",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "repository": {},
+    "plugins": [
+        []
+    ]
+}
